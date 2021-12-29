@@ -67,6 +67,12 @@ Q1　CSSとはHTMLを装飾する為の言語。　　Q2　A...link B...styleshe
 2章チェックテスト
 Q1 A...セレクト B...プロパティ　　　Q2 文字サイズを指定するプロパティ
 3章チェックテスト
+Q1・・・　＜link＞ rel = "stylesheet" type= "text/css" href= "style.css" 
+Q2・・・ 
+p
+{
+ Colir:bule;
+}
 
 4章チェックテスト
 5章チェックテスト
